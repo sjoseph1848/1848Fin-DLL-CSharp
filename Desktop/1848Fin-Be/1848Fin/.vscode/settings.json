@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/8b37879f-76b0-4891-8aa3-90cceafd1eda/resourceGroups/1848FinResourceGroup/providers/Microsoft.Web/sites/1848FinApi",
+  "appService.deploySubpath": "publish"
+}
